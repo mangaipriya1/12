@@ -22,7 +22,7 @@ public static WebElement lnk_admin(WebDriver driver){
 }
 
 //test111 
-//ssg
+//ssg1
 
 
 /*public static WebElement lnk_LogOut(WebDriver driver){	 
